@@ -15,3 +15,13 @@
 12.1 Ran Streamlit app with comprehensive command in background.
 13.1 Implemented left and right layout in Streamlit app.
 14.1 Labeled top 5 outliers in Streamlit app.
+15.1 Initialized Git repository.
+15.2 Added all files to staging area.
+15.3 Configured Git user email and name.
+15.4 Committed changes with message "Initial commit: Streamlit app with outlier labeling".
+15.5 Added remote repository: https://github.com/huanchen1107/test2.git.
+15.6 Pushed changes to remote repository.
+16.1 Wrote detailed project report to README.md.
+17.1 Added README.md to staging area.
+17.2 Committed changes with message "Add README.md".
+17.3 Pushed changes to remote repository.

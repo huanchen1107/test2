@@ -23,6 +23,7 @@ This project implements a simple linear regression model using `scikit-learn` an
     # On Windows
     .\venv\Scripts\activate
     # On macOS/Linux
+    
     source venv/bin/activate
     ```
 3.  **Install dependencies:**
@@ -31,6 +32,8 @@ This project implements a simple linear regression model using `scikit-learn` an
     ```
 
 ## How to Run the Application
+
+**Demo Site:** [https://aiothw1.streamlit.app/](https://aiothw1.streamlit.app/)
 
 1.  **Start the Streamlit application:**
     ```bash
